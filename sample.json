@@ -1,0 +1,26 @@
+{
+	"Filings2018": [
+		{
+			"EIN": "453578215",
+			"TaxPeriod": "201612",
+			"DLN": "93493318071517",
+			"FormType": "990",
+			"URL": "https://s3.amazonaws.com/irs-form-990/201713189349307151_public.xml",
+			"OrganizationName": "MULEY FANATIC FOUNDATION OF WYOMING INC",
+			"SubmittedOn": "2018-01-10",
+			"ObjectId": "201713189349307151",
+			"LastUpdated": "2018-01-18T23:53:03"
+		},
+		{
+			"EIN": "453578215",
+			"TaxPeriod": "201612",
+			"DLN": "93493318071517",
+			"FormType": "990",
+			"URL": "https://s3.amazonaws.com/irs-form-990/201713189349307151_public.xml",
+			"OrganizationName": "MULEY FANATIC FOUNDATION OF WYOMING INC",
+			"SubmittedOn": "2018-01-10",
+			"ObjectId": "201713189349307151",
+			"LastUpdated": "2018-01-18T23:53:03"
+		}
+	]
+}
